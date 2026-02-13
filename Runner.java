@@ -3,7 +3,6 @@ class MyArrayMethods {
     int[] arr;
     int size;
     int lenth;
-
     // constructor
     MyArrayMethods(int capacity) {
         arr = new int[capacity];
